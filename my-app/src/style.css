@@ -1,0 +1,32 @@
+.menu.borderless.topmenu {
+  box-shadow: none;
+}
+
+.logo{
+  transform: translateX(450px);
+}
+
+.tate-back {
+  background: url(https://www.tate.org.uk/sites/default/files/aubrey_beardsley_hero_banner_v1.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 500px;
+  color: white;
+  padding-top: 200px;
+}
+
+.secondmenu{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.bottommenu {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 80px;
+  border: none;
+}
+
+.menu.borderless.secondmenu {
+  border: none;
+  box-shadow: none;
+}
